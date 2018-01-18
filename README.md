@@ -1,5 +1,7 @@
 ![](146082043110733.png)
 
+> 本开源书 forked from [《LeetBook（LeetCode详解）》](https://github.com/hk029/leetbook)，作者为 [hk029](https://github.com/hk029)，欢迎大家 star 原作者的 [repo](https://github.com/hk029/leetbook)，以便获得最新更新，谢谢！
+
  By [Voidsky(黄锴）](https://github.com/hk029)
 
 ---
